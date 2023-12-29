@@ -1,5 +1,5 @@
 # Real-time video enhancement on FPGA
-Real-time video upsampling by four times using bicubic interpolation on FPGA, which minimizes the usage of resources (DSP48 blocks) and memory. (MIT 6.111 Project) ([Slides](https://github.com/sjb565/Fpgesture-controlled-video-enhancement/blob/main/Project%20Presentation.pdf), [Video](https://www.youtube.com/watch?v=FiGxE-KXj5g), [Report](report.pdf))  
+Real-time video upsampling by four times using bicubic interpolation on FPGA, which minimizes the usage of resources (DSP48 blocks) and memory. (MIT 6.111 Project) ([Report](report.pdf), [Slides](https://github.com/sjb565/Fpgesture-controlled-video-enhancement/blob/main/Project%20Presentation.pdf), [Video](https://www.youtube.com/watch?v=FiGxE-KXj5g))  
 
 ![Sample Results from the Hardware Implementation on FPGA](<sample_result.png>)
 
